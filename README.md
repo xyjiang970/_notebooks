@@ -1,1 +1,1 @@
-For jupyter notebook files
+For .ipynb files
